@@ -1,0 +1,3 @@
+### echo tenant id
+GET http://localhost:8080/echo
+tenant-id: super-tenant
